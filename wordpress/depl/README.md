@@ -1,4 +1,7 @@
 # Wordpress + MySQL Depl
 
-almost working, tier property is incorrect(?)
-курить манула!
+## _курить манула!_
+
+## About current progress
+
+деплой работает, всё легко заводится с `kubectl apply -f ./`
